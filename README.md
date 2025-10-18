@@ -20,6 +20,7 @@ It aims to support general physicians by providing an early, data-driven risk as
 - 🌐 **Streamlit App:** Interactive web interface for real-time predictions  
 - 📊 **Visualization:** Feature importance plots and confidence metrics  
 
+---
 
 **Data Sources**
 
@@ -28,7 +29,7 @@ Publicly available hematology datasets
 Augmented with domain knowledge and textbook-based derived features
 
 Cleaned and validated for medical relevance
-
+---
 🌟 Future Work
 
 Expand to other General Physician diseases (Diabetes, Hypertension, Thyroid)
@@ -36,6 +37,6 @@ Expand to other General Physician diseases (Diabetes, Hypertension, Thyroid)
 Integrate multimodal features (symptoms + lab data + text)
 
 Deploy as a clinical decision-support suite
-
+---
 *"Sometimes you gotta run before you can walk."* 
                - you know who said this.
