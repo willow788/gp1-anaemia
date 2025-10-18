@@ -27,16 +27,17 @@ It aims to support general physicians by providing an early, data-driven risk as
 Publicly available hematology datasets
 
 Augmented with domain knowledge and textbook-based derived features
+cleaned and validated for medical relevance
 
-Cleaned and validated for medical relevance
+
 ---
-🌟 Future Work
+**🌟 Future Work**
 
 Expand to other General Physician diseases (Diabetes, Hypertension, Thyroid)
 
 Integrate multimodal features (symptoms + lab data + text)
-
 Deploy as a clinical decision-support suite
+
 ---
 *"Sometimes you gotta run before you can walk."* 
                - you know who said this.
